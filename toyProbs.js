@@ -49,7 +49,7 @@
 
 
 // Write demethodize, a function that converts a method to a binary function
-//  demothodize(Number.prototype.add) (5, 6)    // 11
+//  demethodize(Number.prototype.add) (5, 6)    // 11
 
 // your code
 
